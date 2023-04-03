@@ -1,3 +1,3 @@
 # natours
 
-Web site full responsive.
+Fully responsive website using advanced css and sass.
